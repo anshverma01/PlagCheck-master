@@ -1,13 +1,6 @@
 # PlagCheck ✅
 
-> Moss Results scraper with powerful insights & analysis 💡
 
-![PyPI](https://img.shields.io/pypi/v/plagcheck?color=blue)
-[![Build Status](https://travis-ci.org/codeclassroom/PlagCheck.svg?branch=master)](https://travis-ci.org/codeclassroom/PlagCheck)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/plagcheck)
-[![Documentation Status](https://readthedocs.org/projects/plagcheck/badge/?version=latest)](https://plagcheck.readthedocs.io/en/latest/?badge=latest)
-![PyPI - License](https://img.shields.io/pypi/l/plagcheck?color=orange)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/plagcheck?color=blue)
 
 
 ## Installation
@@ -101,34 +94,11 @@ See the [CHANGELOG.md](CHANGELOG.md) file for details.
 
 ## Author
 
-👥 **Bhupesh Varshney**
-
-- Twitter: [@bhupeshimself](https://twitter.com/bhupeshimself)
-- DEV: [bhupesh](https://dev.to/bhupesh)
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 👋 Contributing
-
-Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines for the process of submitting pull requests to us.
+👥 **Ansh verma**
 
 
-## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/vhsw"><img src="https://avatars3.githubusercontent.com/u/7099976?v=4" width="100px;" alt="Alexey Dubrov"/><br /><sub><b>Alexey Dubrov</b></sub></a><br /><a href="https://github.com/codeclassroom/PlagCheck/commits?author=vhsw" title="Code">💻</a> <a href="https://github.com/codeclassroom/PlagCheck/issues?q=author%3Avhsw" title="Bug reports">🐛</a> <a href="https://github.com/codeclassroom/PlagCheck/commits?author=vhsw" title="Tests">⚠️</a></td>
-  </tr>
-</table>
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
