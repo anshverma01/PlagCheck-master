@@ -1,0 +1,19 @@
+language: python
+python:
+  - "3.6"
+  - "3.7"
+  - "3.8"
+
+install:
+  - pip install -r requirements-dev.txt
+  - pip install isort black flake8 pylint
+  - pip install coveralls
+script:
+  - pytest plagcheck
+  - py.test plagcheck/plagcheck_test.py
+  - isort --check-only --recursive plagcheck
+  - black --check --diff plagcheck
+  - flake8 plagcheck --max-line-length=88 --ignore=F401
+  - pylint plagcheck --disable=bad-continuation,invalid-name,attribute-defined-outside-init,no-self-use,too-many-locals,too-few-public-methods
+after_success:
+  - coveralls
